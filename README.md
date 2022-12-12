@@ -1,2 +1,3 @@
 # refactoring-code
-Amjid niwaz
+
+added image descriptions for accessibility for screen reader users.
